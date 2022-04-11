@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">MunnInsurance</string>
+    <string name="home_ns">Home NS</string>
+    <string name="home_nl">Home NL</string>
+    <string name="home_insurance">HOME INSURANCE</string>
+    <string name="auto_ns">Auto NS</string>
+    <string name="auto_nl">Auto NL</string>
+    <string name="auto_insurance">AUTO INSURANCE</string>
+    <string name="get_a_quote_nonline_now">Get a quote \nonline now!</string>
+    <string name="_1_844_554_0525">1-844-554-0525</string>
+    <string name="or_call">OR CALL</string>
+    <string name="dwelling_information">Dwelling Information</string>
+    <string name="dwelling_replacement_cost">Dwelling replacement cost ($)</string>
+    <string name="distance_to_fire_hydrant_miles">Distance to fire hydrant (Miles)</string>
+    <string name="distance_to_fire_hall">Distance to fire Hall</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6+</string>
+    <string name="building_details">Building Details</string>
+    <string name="building_type">Building type</string>
+    <string name="construction_type">Construction type</string>
+    <string name="years_built">Years Built</string>
+    <string name="primary_heating_source">Primary heating source</string>
+    <string name="auxiliary_heating_source">Auxiliary heating source</string>
+    <string name="burglar_alarm">Burglar alarm</string>
+    <string name="none">None</string>
+    <string name="local">Local</string>
+    <string name="monitored">Monitored</string>
+    <string name="fire_alarm">Fire alarm</string>
+
+    <string name="applicant_information">Applicant Information</string>
+    <string name="date_of_birth_yyyy_mm_dd">Date of birth (YYYY/MM/DD)</string>
+    <string name="co_applicant">Co-applicant</string>
+    <string name="years_with_residential_insurance">Years with residential insurance</string>
+    <string name="number_of_claims_in_the_past_10_years">Number of claims in the past 10 years</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="number_of_mortgages_for_this_dwelling">Number of mortgages for this dwelling</string>
+    <string name="are_all_members_of_the_household_non_smoker">Are all members of the household non-smoker?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="finish">Finish</string>
+    <string name="welcome">Welcome</string>
+    <string name="for_your_convenience_please_have_your_current_home_insurance_policy_information_at_hand">For your convenience, please have your current home insurance policy information at hand.</string>
+    <string name="postal_code_of_the_insured_residence">Postal code of the insured residence</string>
+    <string name="type_of_insurance_policy">Type of insurance policy</string>
+    <string name="when_do_you_need_the_policy_to_begin">When do you need the policy to begin?</string>
+    <string name="begin">Begin</string>
+    <string name="first_name_applicant">First name/Applicant</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="street_address">Street address</string>
+    <string name="your_current_insurance_company_optional">Your current insurance company (optional)</string>
+    <string name="number_of_families_occupying_the_dwelling">Number of families occupying the dwelling</string>
+    <string name="years_at_current_address">Years at current address</string>
+
+
+    <string-array name="policy_type">
+        <item>Home Owner</item>
+        <item>Condominium</item>
+        <item>Tenant</item>
+    </string-array>
+
+
+    <string-array name="building_type">
+        <item>Detached home</item>
+        <item>Semi-detached</item>
+        <item>Row/Townhouse – end unit</item>
+        <item>Row/Townhouse – inner unit</item>
+        <item>Duplex – side by side</item>
+        <item>Duplex – up and down</item>
+        <item>Triplex</item>
+    </string-array>
+
+    <string-array name="construction_type">
+        <item>Solid brick/masonry</item>
+        <item>Wood frame</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="heating_source">
+        <item>Central Furnace - Gas</item>
+        <item>Central Furnace - Oil</item>
+        <item>Central Furnace - Propane</item>
+        <item>Central Furnace - Wood</item>
+        <item>Electric</item>
+        <item>Hot Water / Steam</item>
+        <item>Combination Furnace</item>
+        <item>Solid Fuel</item>
+        <item>Solar</item>
+        <item>Heat Pump</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string-array name="heating_source2">
+        <item>None</item>
+        <item>Combination Furnace</item>
+        <item>Fireplace</item>
+        <item>Fireplace Insert</item>
+        <item>Solid Fuel</item>
+        <item>Space Heater - Gas</item>
+        <item>Space Heater - Oil</item>
+        <item>Space Heater - Electric</item>
+        <item>Wood Burning Stove</item>
+        <item>Solar</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string-array name="alarm">
+        <item>None</item>
+        <item>Local</item>
+        <item>Monitored</item>
+    </string-array>
+
+
+    <string-array name="co_applicant">
+        <item>yes</item>
+        <item>no</item>
+    </string-array>
+
+</resources>
+
+
