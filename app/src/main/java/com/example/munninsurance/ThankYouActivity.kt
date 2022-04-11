@@ -14,6 +14,6 @@ class ThankYouActivity : AppCompatActivity() {
 
         val email=intent.getStringExtra("Email")
 
-        binding.txtMessage.text="Thank you screen with a message saying we will send you the quote to ${email} ."
+        binding.txtMessage.text="Thank you! we will send you the quote to ${email} ."
     }
 }
